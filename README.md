@@ -1,5 +1,6 @@
 # Maldive Islands and Atolls List
 List of all atolls and islands of Maldives in CSV format.
+Both the files are comma delimited text files and can be imported into any spreadsheet or database program.
 
 Read about [how](https://arushad.org/list-of-all-the-islands-of-the-maldives/) this list was generated.
 
