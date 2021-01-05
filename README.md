@@ -1,5 +1,5 @@
 # Maldive Islands and Atolls List
-List of all atolls and islands of Maldives
+List of all atolls and islands of Maldives in CSV format.
 
 Read about [how](https://arushad.org/list-of-all-the-islands-of-the-maldives/) this list was generated.
 
